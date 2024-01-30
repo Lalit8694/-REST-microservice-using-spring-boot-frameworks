@@ -10,4 +10,6 @@
 
 5.     Implemented API using Swagger Documentation which uses localhost 8080.
       Here is the local host to use for Swagger documentation http://localhost:8080/swagger-ui/index.html
+   
+6.    To run this program you have to download the source code and update the maven and create the Mysql as mention in the point 2
 
